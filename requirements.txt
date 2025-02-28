@@ -16,7 +16,7 @@ requests
 python-dotenv
 uuid
 
-
+pysqlite3-binary
 
 # Additional dependencies
 langchain_community

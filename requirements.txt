@@ -1,8 +1,8 @@
 # Core dependencies
 streamlit
 langchain
-langchain-ollama
-langchain-groq
+langchain_ollama
+langchain_groq
 langchain-google-genai
 
 # Vector store and embeddings
@@ -19,6 +19,6 @@ uuid
 
 
 # Additional dependencies
-webbaseloader
+langchain_community
 chroma
 google-generativeai

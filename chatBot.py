@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_ollama import ChatOllama
+#from langchain_ollama import ChatOllama
 from langchain_groq import ChatGroq
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.memory import ConversationBufferMemory

@@ -4,10 +4,10 @@ from langchain_groq import ChatGroq
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
-from langchain.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import WebBaseLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import OllamaEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 import os
 from dotenv import load_dotenv
 import uuid

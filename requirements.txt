@@ -16,7 +16,7 @@ requests
 python-dotenv
 uuid
 
-sqlite>=3.35.0
+
 
 # Additional dependencies
 langchain_community

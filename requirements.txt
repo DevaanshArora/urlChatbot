@@ -16,8 +16,7 @@ requests
 python-dotenv
 uuid
 
-# Optional - for better performance
-tiktoken
+
 
 # Additional dependencies
 webbaseloader

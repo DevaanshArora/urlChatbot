@@ -1,5 +1,5 @@
 # urlChatbot
-# AI Sensy Chat Assistant 🤖
+# AI Chat Assistant 🤖
 
 A powerful, context-aware chat assistant built with Streamlit and powered by Groq's LLaMA 3 model. This application allows users to have intelligent conversations while incorporating knowledge from web sources.
 
